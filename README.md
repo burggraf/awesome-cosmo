@@ -9,6 +9,9 @@ This is a curated list of apps compiled for [Cosmopolitan Libc](https://github.c
 
 ### Redbean
 [Redbean: single-file distributable web server](https://justine.lol/redbean/)
+
+[Direct Download](https://justine.lol/redbean/redbean-1.0.com)
+
 > All you need to do is download the redbean.com program below, change the filename to .zip, add your content in a zip editing tool, and then change the extension back to .com.
 
 > redbean can serve 1 million+ gzip encoded responses per second on a cheap personal computer. 
@@ -28,9 +31,14 @@ This is a curated list of apps compiled for [Cosmopolitan Libc](https://github.c
 - [SQLite Home Page](https://www.sqlite.org)
 
 ### Wasm3
-
 > The fastest WebAssembly interpreter, and the most universal runtime.
 
 [Wasm3 Github Page](https://github.com/wasm3/wasm3)
 
 [Direct Download](https://github.com/wasm3/wasm3/releases/download/v0.4.9/wasm3-cosmopolitan.com)
+
+### Lua
+
+[Direct Download](https://justine.lol/cosmopolitan/lua.com)
+
+[Direct Download](https://justine.lol/cosmopolitan/lua.com)
