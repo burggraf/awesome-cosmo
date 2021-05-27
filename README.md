@@ -26,3 +26,11 @@ This is a curated list of apps compiled for [Cosmopolitan Libc](https://github.c
 
 - Compile directions here (requires linux environment): https://github.com/jart/cosmopolitan/pull/162
 - [SQLite Home Page](https://www.sqlite.org)
+
+### Wasm3
+
+> The fastest WebAssembly interpreter, and the most universal runtime.
+
+[Wasm3 Github Page](https://github.com/wasm3/wasm3)
+
+[Direct Download](https://github.com/wasm3/wasm3/releases/download/v0.4.9/wasm3-cosmopolitan.com)
