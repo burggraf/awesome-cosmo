@@ -10,7 +10,10 @@ This is a curated list of apps compiled for [Cosmopolitan Libc](https://github.c
 ### Redbean
 [Redbean: single-file distributable web server](https://justine.lol/redbean/)
 > All you need to do is download the redbean.com program below, change the filename to .zip, add your content in a zip editing tool, and then change the extension back to .com.
+
 > redbean can serve 1 million+ gzip encoded responses per second on a cheap personal computer. 
+
 > It embeds the Lua programming language which lets you write dynamic pages.
+
 > All in 592kb.  kb.  not mb.  not gb.  kb.  592,145 bytes.
 
