@@ -20,7 +20,8 @@ This is a curated list of apps compiled for [Cosmopolitan Libc](https://github.c
 ### SQLite 3.35.5
 > SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. SQLite is the most used database engine in the world.
 
-[SQLite3](https://github.com/burggraf/awesome-cosmo/tree/main/apps/sqlite3)
+[SQLite3 Page](https://github.com/burggraf/awesome-cosmo/tree/main/apps/sqlite3)
+
 [Direct Download](https://github.com/burggraf/awesome-cosmo/raw/main/apps/sqlite3/sqlite3.35.5.com)
 
 - Compile directions here (requires linux environment): https://github.com/jart/cosmopolitan/pull/162
