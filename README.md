@@ -41,4 +41,3 @@ This is a curated list of apps compiled for [Cosmopolitan Libc](https://github.c
 
 [Direct Download](https://justine.lol/cosmopolitan/lua.com)
 
-[Direct Download](https://justine.lol/cosmopolitan/lua.com)
