@@ -39,5 +39,12 @@ This is a curated list of apps compiled for [Cosmopolitan Libc](https://github.c
 
 ### Lua
 
+[Compiling Lua Comment](https://github.com/jart/cosmopolitan/issues/61#issuecomment-814394064)
+```
+git clone git@github.com:jart/cosmopolitan.git
+cd cosmopolitan
+make -j8 o//third_party/lua/lua.com
+```
+
 [Direct Download](https://justine.lol/cosmopolitan/lua.com)
 
