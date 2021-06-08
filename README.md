@@ -53,6 +53,8 @@ make -j8 o//third_party/lua/lua.com
 
 [QuickJS Javascript Engine](https://bellard.org/quickjs)
 
+[Official Repo](https://github.com/jart/cosmopolitan/tree/master/third_party/quickjs)
+
 [Direct Download](https://github.com/burggraf/awesome-cosmo/raw/main/apps/QuickJS/qjs.com)
 [Direct Zip Download](https://github.com/burggraf/awesome-cosmo/raw/main/apps/QuickJS/qjs.zip)
 
