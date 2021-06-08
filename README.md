@@ -48,3 +48,12 @@ make -j8 o//third_party/lua/lua.com
 
 [Direct Download](https://justine.lol/cosmopolitan/lua.com)
 
+### QuickJS
+> QuickJS is a small and embeddable Javascript engine. It supports the ES2020 specification including modules, asynchronous generators, proxies and BigInt.
+
+[QuickJS Javascript Engine](https://bellard.org/quickjs)
+
+[Direct Download](https://github.com/burggraf/awesome-cosmo/raw/main/apps/QuickJS/qjs.com)
+[Direct Zip Download](https://github.com/burggraf/awesome-cosmo/raw/main/apps/QuickJS/qjs.zip)
+
+
