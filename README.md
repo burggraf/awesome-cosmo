@@ -65,6 +65,6 @@ make -j8 o//third_party/lua/lua.com
 [Repo: Compiling Python2.7 with Cosmopolitan](https://github.com/ahgamut/cpython/tree/cosmo_py27)
 
 [Direct Zip Download](https://github.com/burggraf/awesome-cosmo/raw/main/apps/python2.7/python.zip)
-NOTE: There is a required file inside the zip,lib/python27.zip, which contains Python built-in libraries.
+- NOTE: There is a required file inside the zip,lib/python27.zip, which contains Python built-in libraries.
 
 
