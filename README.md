@@ -48,3 +48,23 @@ make -j8 o//third_party/lua/lua.com
 
 [Direct Download](https://justine.lol/cosmopolitan/lua.com)
 
+### QuickJS
+> QuickJS is a small and embeddable Javascript engine. It supports the ES2020 specification including modules, asynchronous generators, proxies and BigInt.
+
+[QuickJS Javascript Engine](https://bellard.org/quickjs)
+
+[Official Repo](https://github.com/jart/cosmopolitan/tree/master/third_party/quickjs)
+
+[Direct Download](https://github.com/burggraf/awesome-cosmo/raw/main/apps/QuickJS/qjs.com)
+
+[Direct Zip Download](https://github.com/burggraf/awesome-cosmo/raw/main/apps/QuickJS/qjs.zip)
+
+### Python 2.7
+> This repo contains the source code of Python 2.7.18 customized to compile with Cosmopolitan libc. Meant for experimental purposes only.
+
+[Repo: Compiling Python2.7 with Cosmopolitan](https://github.com/ahgamut/cpython/tree/cosmo_py27)
+
+[Direct Zip Download](https://github.com/burggraf/awesome-cosmo/raw/main/apps/python2.7/python.zip)
+- NOTE: There is a required file inside the zip,lib/python27.zip, which contains Python built-in libraries.
+
+
