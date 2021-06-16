@@ -10,7 +10,7 @@ This is a curated list of apps compiled for [Cosmopolitan Libc](https://github.c
 ### Redbean
 [Redbean: single-file distributable web server](https://justine.lol/redbean/)
 
-[Direct Download](https://justine.lol/redbean/redbean-1.0.com)
+[Direct Download 1.3](https://justine.lol/redbean/redbean-1.3.com)
 
 > All you need to do is download the redbean.com program below, change the filename to .zip, add your content in a zip editing tool, and then change the extension back to .com.
 
@@ -25,7 +25,7 @@ This is a curated list of apps compiled for [Cosmopolitan Libc](https://github.c
 
 [SQLite3 Page](https://github.com/burggraf/awesome-cosmo/tree/main/apps/sqlite3)
 
-[Direct Download](https://github.com/burggraf/awesome-cosmo/raw/main/apps/sqlite3/sqlite3.35.5.com)
+[Direct Download from justine.lol](https://justine.lol/redbean/sqlite3.com)
 
 - Compile directions here (requires linux environment): https://github.com/jart/cosmopolitan/pull/162
 - [SQLite Home Page](https://www.sqlite.org)
