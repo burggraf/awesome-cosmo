@@ -22,18 +22,19 @@ This is a curated list of apps compiled for [Cosmopolitan Libc](https://github.c
 
 > All in 1.1mb.  not gb.  mb.  1,149,201 bytes.
 
->features
--HTTP v0.9
--HTTP v1.0
--HTTP v1.1
--Lua v5.4
--SQLite 3.35.5
--Pipelining
--Monitoring
--Accounting
--Content-Encoding
--Range / Content-Range
--Last-Modified / If-Modified-Since
+features:
+
+- HTTP v0.9
+- HTTP v1.0
+- HTTP v1.1
+- Lua v5.4
+- SQLite 3.35.5
+- Pipelining
+- Monitoring
+- Accounting
+- Content-Encoding
+- Range / Content-Range
+- Last-Modified / If-Modified-Since
 
 ### SQLite 3.35.5
 > SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. SQLite is the most used database engine in the world.
