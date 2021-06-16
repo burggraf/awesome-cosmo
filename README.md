@@ -18,7 +18,22 @@ This is a curated list of apps compiled for [Cosmopolitan Libc](https://github.c
 
 > It embeds the Lua programming language which lets you write dynamic pages.
 
-> All in 592kb.  kb.  not mb.  not gb.  kb.  592,145 bytes.
+> It embeds Sqlite 3.35.5.
+
+> All in 1.1mb.  not gb.  mb.  1,149,201 bytes.
+
+>features
+>HTTP v0.9
+>HTTP v1.0
+>HTTP v1.1
+>Lua v5.4
+>SQLite 3.35.5
+>Pipelining
+>Monitoring
+>Accounting
+>Content-Encoding
+>Range / Content-Range
+>Last-Modified / If-Modified-Since
 
 ### SQLite 3.35.5
 > SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. SQLite is the most used database engine in the world.
