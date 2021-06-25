@@ -10,7 +10,7 @@ This is a curated list of apps compiled for [Cosmopolitan Libc](https://github.c
 ### Redbean
 [Redbean: single-file distributable web server](https://justine.lol/redbean/)
 
-[Direct Download](https://justine.lol/redbean/redbean-1.0.com)
+[Direct Download 1.3](https://justine.lol/redbean/redbean-1.3.com)
 
 > All you need to do is download the redbean.com program below, change the filename to .zip, add your content in a zip editing tool, and then change the extension back to .com.
 
@@ -18,14 +18,30 @@ This is a curated list of apps compiled for [Cosmopolitan Libc](https://github.c
 
 > It embeds the Lua programming language which lets you write dynamic pages.
 
-> All in 592kb.  kb.  not mb.  not gb.  kb.  592,145 bytes.
+> It embeds Sqlite 3.35.5.
+
+> All in 1.1mb.  not gb.  mb.  1,149,201 bytes.
+
+features:
+
+- HTTP v0.9
+- HTTP v1.0
+- HTTP v1.1
+- Lua v5.4
+- SQLite 3.35.5
+- Pipelining
+- Monitoring
+- Accounting
+- Content-Encoding
+- Range / Content-Range
+- Last-Modified / If-Modified-Since
 
 ### SQLite 3.35.5
 > SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. SQLite is the most used database engine in the world.
 
 [SQLite3 Page](https://github.com/burggraf/awesome-cosmo/tree/main/apps/sqlite3)
 
-[Direct Download](https://github.com/burggraf/awesome-cosmo/raw/main/apps/sqlite3/sqlite3.35.5.com)
+[Direct Download from justine.lol](https://justine.lol/redbean/sqlite3.com)
 
 - Compile directions here (requires linux environment): https://github.com/jart/cosmopolitan/pull/162
 - [SQLite Home Page](https://www.sqlite.org)
