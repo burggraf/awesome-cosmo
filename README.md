@@ -10,7 +10,7 @@ This is a curated list of apps compiled for [Cosmopolitan Libc](https://github.c
 ### Redbean
 [Redbean: single-file distributable web server](https://justine.lol/redbean/)
 
-[Direct Download 1.3](https://justine.lol/redbean/redbean-1.3.com)
+[Direct Download 1.4](https://justine.lol/redbean/redbean-1.4.com)
 
 > All you need to do is download the redbean.com program below, change the filename to .zip, add your content in a zip editing tool, and then change the extension back to .com.
 
