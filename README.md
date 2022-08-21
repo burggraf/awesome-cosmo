@@ -82,4 +82,8 @@ make -j8 o//third_party/lua/lua.com
 
 [Direct Zip Download](https://github.com/burggraf/awesome-cosmo/raw/main/apps/python2.7/python.zip)
 
+### OCaml (4.13 & 4.14)
+> A tweaked OCaml compiler to compile OCaml code with Cosmopolitan libc. Meant for experimental purposes only.
 
+[Repo: Esperanto, when OCaml meets Cosmopolitan](https://github.com/dinosaure/esperanto)
+[Brief presentation of Esperanto](https://blog.osau.re/articles/esperanto.html)
